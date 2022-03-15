@@ -1,0 +1,6 @@
+Attack;Router;Date;Time;Info;Result
+
+DHCP STARVATION;192.168.1.1;27/11/2021;11:25:05;5 packets transmitted, 5 received, 0% packet loss, time 4055ms;unsuccessful attack
+DHCP STARVATION;192.168.1.1;27/11/2021;12:05:41;5 packets transmitted, 1 received, 80% packet loss, time 4077ms;successful attack
+SYN FLOOD;192.168.1.1;27/11/2021;12:10:10;5 packets transmitted, 5 received, 0% packet loss, time 4015ms;unsuccessful attack
+SMURF ATTACK;192.168.1.4;27/11/2021;12:11:04;5 packets transmitted, 0 received, 100% packet loss, time 4107ms;successful attack

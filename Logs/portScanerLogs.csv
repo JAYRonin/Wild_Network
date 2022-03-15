@@ -1,0 +1,4 @@
+Target;Date;Time;Ports
+192.168.1.2;27/11/2021;06:06:11;[]53: Listening', '80: Listening', '139: Listening', '443: Listening', '445: Listening']ng', '445: Listening']
+192.168.1.1;27/11/2021;06:08:29;['53: Listening', '80: Listening', '139: Listening', '443: Listening', '445: Listening']
+192.168.1.1;27/11/2021;12:04:18;[]
